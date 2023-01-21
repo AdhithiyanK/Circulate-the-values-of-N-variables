@@ -29,6 +29,6 @@ def circulate():
     print("After circulating the values are:",a)
 ~~~
 ## Output:
-![output](img.png)
+![image](https://user-images.githubusercontent.com/121029258/213874453-25d1607f-1631-41bf-9d61-eabe5b5c9d71.png)
 ## Result:
 The variables are rotated successfully.
